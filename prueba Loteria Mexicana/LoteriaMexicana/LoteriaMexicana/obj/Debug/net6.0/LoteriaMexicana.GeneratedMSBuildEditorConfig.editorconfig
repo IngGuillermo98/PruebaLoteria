@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LoteriaMexicana
+build_property.RootNamespace = LoteriaMexicana
+build_property.ProjectDir = C:\Users\goop_\OneDrive\Documentos\bootcamp\prueba Loteria Mexicana\LoteriaMexicana\LoteriaMexicana\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\goop_\OneDrive\Documentos\bootcamp\prueba Loteria Mexicana\LoteriaMexicana\LoteriaMexicana
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/CartasPorTablas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFzUG9yVGFibGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/CartasPorTablas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFzUG9yVGFibGFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/CartasPorTablas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFzUG9yVGFibGFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/CartasPorTablas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFzUG9yVGFibGFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/CartasPorTablas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFzUG9yVGFibGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/Cartas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/Cartas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/Cartas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/Cartas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/Cartas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/Tablas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/Tablas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/Tablas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/Tablas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/Tablas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/goop_/OneDrive/Documentos/bootcamp/prueba Loteria Mexicana/LoteriaMexicana/LoteriaMexicana/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5m0vnwag9f

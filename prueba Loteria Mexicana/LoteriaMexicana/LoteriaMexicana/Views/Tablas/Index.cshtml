@@ -1,0 +1,62 @@
+﻿@model IEnumerable<LoteriaMexicana.Models.Entities.Tablas>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-6 d-flex">
+            <div class="col-5">
+                <label class="text-light">Ingrese la cantidad de Tarjetas a generar:</label>
+            </div>
+            <div class="col-7 d-flex justify-content-around">
+                <form id="formularioDato" class="d-flex">
+                    <input type="number" value="" class="form-control cantidadTab" id="cantidad" />
+                    <button type="submit" class="btn btn-primary btn-sm" id="submitBtn">Crear</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="row mt-2">
+        @foreach (var tabla in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card fondoMatiz">
+                    <div class="card-header">
+                        <p class="text-light">@tabla.Nombre</p>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            @foreach (var celda in tabla.CartasPorTabla)
+                            {
+                                <div class="col-3" style="margin:0;padding:0;">
+                                    @celda.IdCartaNavigation.Nombre
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    $('#submitBtn').click(function (event) {
+        event.preventDefault(); // Evita que el formulario se envíe normalmente
+        var cantidad = $('#cantidad').val();
+        $.ajax({
+            url: '/Tablas/generarTablas',
+            type: 'POST',
+            data: { cantidad: cantidad },
+            success: function (respuesta) {
+                window.location.reload();
+            }
+        });
+    });
+</script>
+
